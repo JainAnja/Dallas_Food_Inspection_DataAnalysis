@@ -13,7 +13,7 @@ Data from Dallas food inspections analyzed using Alteryx and Talend. Created a D
 # --DataPreparation_FactTable
 ![DataProfiling](Images/workflow3.png)
 
-## Dashboards ##
+## Tableau Dashboards ##
 # --Inspection by Year
 ![Year on year inspection](Images/Images1.png)
 
